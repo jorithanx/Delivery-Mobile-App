@@ -103,3 +103,5 @@ export function* getOrders() {
     yield put(ToastActionsCreators.displayError('Erro ao carregar pedidos'));
   }
 }
+
+// hobby-session-5
