@@ -25,3 +25,5 @@ const store = createStore(rootReducer, composer);
 saglaMiddleware.run(rootSaga);
 
 export default store;
+
+// hobby-session-6
