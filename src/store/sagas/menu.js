@@ -17,3 +17,5 @@ export function* loadMenu(action) {
     yield put(ToastActionsCreators.displayError('Não foi possível carregar os dados do menu'));
   }
 }
+
+// hobby-session-13
