@@ -91,3 +91,5 @@ export default connect(
   mapStateToProps,
   mapDispatchToProps,
 )(Cart);
+
+// hobby-session-19
