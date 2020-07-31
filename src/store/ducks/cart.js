@@ -144,3 +144,5 @@ export default function menu(state = INITIAL_STATE, { type, payload }) {
       return state;
   }
 }
+
+// hobby-session-23
