@@ -17,3 +17,5 @@ export const List = styled.FlatList.attrs({
     overflow: 'visible',
   },
 })``;
+
+// hobby-session-22
