@@ -63,3 +63,6 @@ react-native link react-native-linear-gradient
 - editorconfig
 - eslint
 - babel-plugin-root-import
+
+
+<!-- hobby-session-34 -->
