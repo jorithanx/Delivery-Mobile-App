@@ -21,3 +21,5 @@ export async function getItemAsync(item) {
 export async function clearAsync() {
   AsyncStorage.clear();
 }
+
+// hobby-session-32
