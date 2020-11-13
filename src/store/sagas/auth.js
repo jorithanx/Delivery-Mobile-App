@@ -65,3 +65,5 @@ export function* signUp(action) {
     yield put(ToastActionsCreators.displayError('Erro'));
   }
 }
+
+// hobby-session-49
