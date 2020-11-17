@@ -49,3 +49,5 @@ SizePrice.propTypes = {
 };
 
 export default SizePrice;
+
+// hobby-session-52
