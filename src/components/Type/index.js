@@ -30,3 +30,5 @@ Type.propTypes = {
 };
 
 export default Type;
+
+// hobby-session-57
