@@ -80,3 +80,5 @@ export default connect(
   mapStateToProps,
   mapDispatchToProps,
 )(Products);
+
+// hobby-session-58
