@@ -148,3 +148,5 @@ export default connect(
   mapStateToProps,
   mapDispatchToProps,
 )(Checkout);
+
+// hobby-session-62
