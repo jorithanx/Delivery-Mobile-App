@@ -11,3 +11,5 @@ export default function normalizeData(item) {
 
   return normalizedItem;
 }
+
+// hobby-session-73
