@@ -73,3 +73,5 @@ export const NextIcon = styled(MIcon).attrs({
   color: '#fff',
   size: 20,
 })``;
+
+// hobby-session-81
