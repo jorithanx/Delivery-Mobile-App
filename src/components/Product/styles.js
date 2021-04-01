@@ -63,3 +63,5 @@ export const TimeText = styled.Text`
   color: #706e7b;
   letter-spacing: 0.46px;
 `;
+
+// hobby-session-84
