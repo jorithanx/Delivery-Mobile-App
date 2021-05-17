@@ -26,3 +26,5 @@ export default function* rootSaga() {
     takeLatest(CartTypes.LOAD_CART, loadCart),
   ]);
 }
+
+// hobby-session-93
