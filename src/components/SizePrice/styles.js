@@ -51,3 +51,5 @@ export const Price = styled.Text`
   opacity: 0.6;
   margin-top: 5px;
 `;
+
+// hobby-session-96
