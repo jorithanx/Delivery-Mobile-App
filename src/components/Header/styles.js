@@ -36,3 +36,5 @@ export const CartPrice = styled.Text`
   font-size: 16px;
   color: #ffffff;
 `;
+
+// hobby-session-122
