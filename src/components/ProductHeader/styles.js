@@ -48,3 +48,5 @@ export const CounterContainer = styled.View`
 export const CounterText = styled.Text`
   font-size: 12px;
 `;
+
+// hobby-session-126
