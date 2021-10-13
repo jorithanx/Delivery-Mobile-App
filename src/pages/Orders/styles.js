@@ -18,3 +18,5 @@ export const List = styled.FlatList.attrs({
     flexDirection: 'column-reverse',
   },
 })``;
+
+// hobby-session-134
