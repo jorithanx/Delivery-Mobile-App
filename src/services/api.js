@@ -22,3 +22,5 @@ api.interceptors.request.use((config) => {
 export const imagesURL = `${baseURL}/files`;
 
 export default api;
+
+// hobby-session-171
