@@ -32,3 +32,5 @@ export const Total = styled.Text`
   font-size: 16px;
   color: #0b2031;
 `;
+
+// hobby-session-221
