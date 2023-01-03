@@ -65,3 +65,5 @@ export const DeleteIcon = styled(Icon).attrs({
   size: 24,
   color: '#e5293e',
 })``;
+
+// hobby-session-224
