@@ -16,3 +16,5 @@ export const getURL = (menuType, id) => {
       return '';
   }
 };
+
+// hobby-session-235
