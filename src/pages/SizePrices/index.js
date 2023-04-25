@@ -98,3 +98,5 @@ export default connect(
   mapStateToProps,
   mapDispatchToProps,
 )(SizePrices);
+
+// hobby-session-255
