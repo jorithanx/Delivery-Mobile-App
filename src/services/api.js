@@ -24,3 +24,5 @@ export const imagesURL = `${baseURL}/files`;
 export default api;
 
 // hobby-session-171
+
+// hobby-session-288
