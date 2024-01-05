@@ -26,3 +26,5 @@ export const List = styled.FlatList.attrs({
 // hobby-session-274
 
 // hobby-session-279
+
+// hobby-session-296
