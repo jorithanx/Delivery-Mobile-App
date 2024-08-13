@@ -59,3 +59,5 @@ export default SizePrice;
 // hobby-session-331
 
 // hobby-session-332
+
+// hobby-session-347
