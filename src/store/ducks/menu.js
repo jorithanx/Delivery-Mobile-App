@@ -60,3 +60,5 @@ export default function menu(state = INITIAL_STATE, { type, payload }) {
 // hobby-session-365
 
 // hobby-session-385
+
+// hobby-session-387
